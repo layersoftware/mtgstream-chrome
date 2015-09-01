@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Getting Started Extension's Popup</title>
+    <style>
+	  html{
+		  width: 325px;
+		  height: auto;
+	  }
+      body {
+		width: 325px;
+		height: auto;
+        min-width: 357px;
+        overflow-x: hidden;
+        background-color: #FAEBD7;
+      }
+
+      img {
+        margin: 5px;
+        border: 2px solid black;
+        vertical-align: middle;
+        width: 75px;
+        height: 75px;
+      }
+      a:link {color: black; text-decoration: none}
+	  a:visited {color: black; text-decoration: none}
+	  a:hover {color: black; text-decoration: underline}
+	  a:active {color: black; text-decoration: none} 	
+	  
+	  table, td, tr{
+		border-bottom: 1px solid black; 
+		border-collapse: collapse; 
+		margin: 5px;
+		padding-top: 3px;
+		padding-left: 3px;
+	  }
+	  table{
+	  	width: 300px;
+	  }
+    </style>
+    <script src="jquery.js"></script>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+	  <h2 align="center">MTG Stream Browser</h1>
+	  <div id="content">
+		  <table id="streams" align="center">
+			  <tr style="border: 1px solid black">
+				  <td> <b>Stream</b> </td>
+				  <td> <b>Viewers</b> </td>
+			  </tr>
+		  </table>
+	  </div>
+  </body>
+</html>
+

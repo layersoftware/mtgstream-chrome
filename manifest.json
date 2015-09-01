@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "MTG Stream Browser",
+  "description": "Shows a list of twitch magic streams",
+  "version": "1.0",
+
+  "permissions": [
+    "https://api.twitch.tv/*"
+  ],
+  "content_security_policy": "script-src 'self' https://api.twitch.tv/; object-src 'self'",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
