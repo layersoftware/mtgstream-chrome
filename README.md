@@ -1,6 +1,3 @@
-# mtgstream-chrome
-A simple Chrome App for seeing what twitch magic the gathering streams are on
-
 # MTG Stream Browser for Chrome
 
 MTG Stream Browser is an open-source chrome app for seeing all Magic: the gathering streams that are happening right now on Twitch quickly without having to go to the twitch website.
@@ -15,13 +12,15 @@ MTG Stream Browser is an open-source chrome app for seeing all Magic: the gather
 
 ### Customizing
 Feel free to change the CSS and HTML on popout.html as much as you want to.
+
 Also you can change the game of the browser by changing the game variable on the first line of popout.js
   - Some possible are:
    - League of Legends ( League%20of%20Legends )
    - Heartstone ( Hearthstone%3A%20Heroes%20of%20Warcraft )
    - Dota 2 ( Dota%202 )
-  But you can do it with any game on twitch just got to the game's page on twitch an copy what's after http://www.twitch.tv/directory/game/
-  For example if the url is http://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive you want only Counter-Strike%3A%20Global%20Offensive
+But you can do it with any game on twitch just got to the game's page on twitch an copy what's after http://www.twitch.tv/directory/game/
+
+For example if the url is http://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive you want only Counter-Strike%3A%20Global%20Offensive
 
 ### Background:
 We are big fans of Magic: the gathering here, and being so we watch a Lot of MTG streams on Twitch.
