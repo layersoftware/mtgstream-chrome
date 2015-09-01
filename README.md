@@ -16,7 +16,7 @@ Feel free to change the CSS and HTML on popout.html as much as you want to.
 Also you can change the game of the browser by changing the game variable on the first line of popout.js
   - Some possible are:
    - League of Legends ( League%20of%20Legends )
-   - Heartstone ( Hearthstone%3A%20Heroes%20of%20Warcraft )
+   - Hearthstone ( Hearthstone%3A%20Heroes%20of%20Warcraft )
    - Dota 2 ( Dota%202 )
 
 But you can do it with any game on twitch just got to the game's page on twitch an copy what's after http://www.twitch.tv/directory/game/
@@ -31,6 +31,6 @@ The thing is that if you want to quickly see all the MTG Twitch streams right no
 So we decided to make thing easier for us with this very basic chrome app.
 
 ### Us:
-We are a software development company based in Brasil
+We are a software development company based in Brazil
  - Our Website: http://layerdesign.com.br
  - Facebook: https://www.facebook.com/layersoftware
