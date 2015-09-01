@@ -18,13 +18,16 @@ Also you can change the game of the browser by changing the game variable on the
    - League of Legends ( League%20of%20Legends )
    - Heartstone ( Hearthstone%3A%20Heroes%20of%20Warcraft )
    - Dota 2 ( Dota%202 )
+
 But you can do it with any game on twitch just got to the game's page on twitch an copy what's after http://www.twitch.tv/directory/game/
 
 For example if the url is http://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive you want only Counter-Strike%3A%20Global%20Offensive
 
 ### Background:
 We are big fans of Magic: the gathering here, and being so we watch a Lot of MTG streams on Twitch.
+
 The thing is that if you want to quickly see all the MTG Twitch streams right now you have to go to the website and find the game
+
 So we decided to make thing easier for us with this very basic chrome app.
 
 ### Us:
