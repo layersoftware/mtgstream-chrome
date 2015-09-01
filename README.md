@@ -31,6 +31,6 @@ The thing is that if you want to quickly see all the MTG Twitch streams right no
 So we decided to make thing easier for us with this very basic chrome app.
 
 ### Us:
-Our Website: http://layerdesign.com.br
-
-Facebook: https://www.facebook.com/layersoftware
+We are a software development company based in Brasil
+ - Our Website: http://layerdesign.com.br
+ - Facebook: https://www.facebook.com/layersoftware
